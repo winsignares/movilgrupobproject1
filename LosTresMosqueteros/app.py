@@ -1,1 +1,1 @@
-print("hola mundo")
+print("hola mundo"):Q.QQ:QQ
